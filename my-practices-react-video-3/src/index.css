@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+  padding: 16px;
+}
+
+
+button {
+  border-radius: 8px;
+  border: 2px solid transparent;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: sans-serif;
+  background-color: #646cff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  color: red;
+}
+
